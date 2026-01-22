@@ -3,6 +3,7 @@ Another side project about sharks
 
 Repo structure:
 
+```text
 ├── R
 │   ├── compare_regions.R
 │   ├── data_prep
@@ -25,3 +26,4 @@ Repo structure:
 │   └── raw
 ├── output
 └── sharks_climate_projections.Rproj
+```
